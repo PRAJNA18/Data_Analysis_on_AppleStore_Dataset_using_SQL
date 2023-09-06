@@ -1,4 +1,4 @@
-#### Apple Store Dataset Analysis using SQL
+### Apple Store Dataset Analysis using SQL
 
 This project involves analyzing data from the Apple Store using SQL in SQLiteOnline. The dataset used for this analysis is from Kaggle and contains information about various apps available on the Apple Store, including details such as app name, user ratings, price, genre and description dataset also included.
 
@@ -11,7 +11,7 @@ This project involves analyzing data from the Apple Store using SQL in SQLiteOnl
 - [Results](#results)
 - [Conclusion](#conclusion)
 
-### Project Overview
+## Project Overview
 
 In this project, we performed data analysis on the Apple Store dataset to gain insights into the following aspects:
 
@@ -23,7 +23,7 @@ In this project, we performed data analysis on the Apple Store dataset to gain i
 
 We used SQL queries to extract, manipulate, and analyze the data, aiming to provide valuable information to stakeholders or anyone interested in understanding the Apple Store ecosystem.
 
-### Dataset
+## Dataset
 
 The dataset used for this analysis can be found in the Datasets folder. It contains several tables, including:
 
@@ -33,20 +33,19 @@ The dataset used for this analysis can be found in the Datasets folder. It conta
 - `genres`: App genres.
 - `description`: Description for the apps
 
-### Getting Started
+## Getting Started
 
 To replicate this analysis on your local machine, follow these steps:
 
-1. Clone this repository to your computer
-2. Download the datasets to your computer
-3. Import the datasets and perform analysis on SQLteOnline.com
-4. Run SQL queries against the database to analyze the data.
+1. Clone this repository to your computer.
+2. Import the datasets and perform analysis on SQLteOnline.com
+3. Run SQL queries against the database to analyze the data.
 
-### SQL Queries
+## SQL Queries
 
 In the `queries.sql` file, you will find SQL queries used in this analysis. These queries cover various aspects of the dataset, such as retrieving top-rated apps, calculating average prices, categorizing apps by genre and much more.
 
-### Results
+## Results
 
 The results of the data analysis are documented in the results.md file. This document provides insights and findings based on the SQL queries and visualizations generated from the dataset.
 
