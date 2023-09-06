@@ -49,7 +49,7 @@ In the `queries.sql` file, you will find SQL queries used in this analysis. Thes
 
 The results of the data analysis are documented in the results.md file. This document provides insights and findings based on the SQL queries and visualizations generated from the dataset.
 
-### Conclusion
+## Conclusion
 
 In conclusion, this project demonstrates the use of SQL for analyzing the Apple Store dataset. It offers insights into the world of Apple apps, including user ratings, pricing, and app categories. The results can be valuable for app developers, marketers, and anyone interested in the mobile app industry.
 
